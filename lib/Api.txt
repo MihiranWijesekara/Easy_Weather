@@ -1,0 +1,8 @@
+https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=b27f1596a05b5bb3205c70ce5bc0fa9a&units=metric
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=b27f1596a05b5bb3205c70ce5bc0fa9a&units=metric
+
+
+b27f1596a05b5bb3205c70ce5bc0fa9a
+
+178 = 28.12
